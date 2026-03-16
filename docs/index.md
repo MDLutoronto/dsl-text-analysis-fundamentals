@@ -1,13 +1,16 @@
 ---
 title: "Text Analysis Fundamentals with the Digital Scholar Lab"
 layout: "home"
-description: ""
+description: "This tutorial introduces Gale's Digital Scholar Lab (DSL), a digital humanities tool."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Nick Field
+   link: https://library.utoronto.ca/staff/nick-field
 ---
 
 # Text Analysis Fundamentals with the Digital Scholar Lab
 
-This tutorial introduces[Gale's Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab) (DSL), a digital humanities tool. In this tutorial, you will learn how to:
+This tutorial introduces [Gale's Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab) (DSL), a digital humanities tool. In this tutorial, you will learn how to:
 
 * Build a collection of texts, including uploading your own materials
 * Create collaborative workspaces
@@ -33,12 +36,12 @@ Our tutorial for the Digital Scholar Lab (DSL) includes the introductory page yo
 7. [Additional training](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-additional-training)
 
 **Access** covers how to find and log into the DSL.  
-**Collaboration and Notes,**an optional guide, shows you how to create team workspaces.  
-**Collections**includes uploading your own texts and using advanced search options to locate primary sources from Gale.  
-**Cleaning**discusses how to prepare your texts for best results.  
-**Analysis**covers the DSL's six tools in detail.  
-**Export**shows you how to export data, graphs, and full texts.  
-**Additional training**includes resources from Gale, including sample projects and recorded webinars.
+**Collaboration and Notes,** an optional guide, shows you how to create team workspaces.  
+**Collections** includes uploading your own texts and using advanced search options to locate primary sources from Gale.  
+**Cleaning** discusses how to prepare your texts for best results.  
+**Analysis** covers the DSL's six tools in detail.  
+**Export** shows you how to export data, graphs, and full texts.  
+**Additional training** includes resources from Gale, including sample projects and recorded webinars.
 
 What is Gale Digital Scholar Lab?
 ---------------------------------
@@ -64,7 +67,7 @@ When you use the DSL through your University of Toronto connection, you can use 
 Digitization
 ------------
 
-The texts available in the DSL have gone through several steps: (1\) various institutions like libraries and archives collected the texts; (2\) Gale scanned the text; (3\) through a process called [Optical Character Recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition)these scans—which are essentially photographs of texts—are converted into readable, searchable text.
+The texts available in the DSL have gone through several steps: (1\) various institutions like libraries and archives collected the texts; (2\) Gale scanned the text; (3\) through a process called [Optical Character Recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition) these scans—which are essentially photographs of texts—are converted into readable, searchable text.
 
 OCR uses image\-recognition algorithms to identify characters and create a text file based on the image. OCR is powerful, but it is also prone to errors such as misidentifying characters (e.g. reading a zero as the letter 'O') or adding or removing spaces. There are [additional challenges for scanning older English texts](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/), such as those that use the long 's' ('ſ*'*), which resembles a lowercase 'f'. We discuss this process further in the section on Cleaning, but for now it is sufficient to know that this process can often leave errors in the text files produced through OCR.
 
@@ -76,14 +79,13 @@ In addition to the in\-depth tutorials above, we have a variety of pages and vid
 * [Getting started with the Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/tutorials/gale-digital-scholar-lab-information-tutorials-and-workshops)
 * [General overview and Frequently Asked Questions](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab) (FAQ)
 * [Short demo video](https://play.library.utoronto.ca/watch/dcee158db446cb9a2dc4168eccf30f77?t=350)
-* [In\-depth recorded workshop](https://play.library.utoronto.ca/watch/59c47c549cf5ddc92a44a346d3662c1f) (with captions and [slides](https://docs.google.com/presentation/d/1F69Q1wq_yjA7blqtDMPdbF6B0ElM4rQwX34Zwmqx6k4/edit?usp=sharing))
 * [Additional training from Gale](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-additional-training#Gale_official) (recorded and live webinars)
-* [Text Analysis Tools Comparison Cheat Sheet](https://docs.google.com/spreadsheets/d/1ejQ2mBVaa7ETi5zOoQi6wgFJhrJmtHmwb36RA-LBUi0/edit?usp=sharing)(compares the Digital Scholar Lab, Constellate, TDM Studio, and the HathiTrust Research Center)
+* [Text Analysis Tools Comparison Cheat Sheet](https://docs.google.com/spreadsheets/d/1ejQ2mBVaa7ETi5zOoQi6wgFJhrJmtHmwb36RA-LBUi0/edit?usp=sharing) (compares the Digital Scholar Lab, Constellate, TDM Studio, and the HathiTrust Research Center)
 
 Who do I contact for more help?
 -------------------------------
 
-If you would like help or want to take any of the DSL's tools further in your own analysis, you can always[contact Digital Scholarship Services](https://onesearch.library.utoronto.ca/digital-scholarship/contact-digital-scholarship-services).
+If you would like help or want to take any of the DSL's tools further in your own analysis, you can always [contact Digital Scholarship Services](https://onesearch.library.utoronto.ca/digital-scholarship/contact-digital-scholarship-services).
 
 Note: if you are experiencing an HTTP 400 error when attempting to log in, please close your browser, reopen, and retry. You may have timed out, which can cause errors on some browsers.
 
@@ -98,4 +100,6 @@ Further Reading
 
 See also our [bibliography of works that critically analyze data studies](https://mdl.library.utoronto.ca/support/guides/critical-data-and-maps-equity-diversity-and-inclusion-edi), mapping and GIS from antiracist, feminist, queer, LGBTQIA2S\+ and Indigenous perspectives.
 
-Technique: [Text and Data Mining](/technique/text-and-data-mining), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Digital Scholar Lab](/tools/digital-scholar-lab-0)**Date Created:** 2020\-04\-21**Updated:** 2025\-12\-18
+Technique: [Text and Data Mining](/technique/text-and-data-mining), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Digital Scholar Lab](/tools/digital-scholar-lab-0)
+
+**Date Created:** 2020\-04\-21 **Updated:** 2025\-12\-18
