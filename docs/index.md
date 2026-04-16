@@ -100,6 +100,6 @@ Further Reading
 
 See also our [bibliography of works that critically analyze data studies](https://mdl.library.utoronto.ca/support/guides/critical-data-and-maps-equity-diversity-and-inclusion-edi), mapping and GIS from antiracist, feminist, queer, LGBTQIA2S\+ and Indigenous perspectives.
 
-Technique: [Text and Data Mining](/technique/text-and-data-mining), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Digital Scholar Lab](/tools/digital-scholar-lab-0)
+**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
 
 **Date Created:** 2020\-04\-21 **Updated:** 2025\-12\-18
