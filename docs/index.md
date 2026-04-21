@@ -6,6 +6,7 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
+created_date: 2020-04-21
 ---
 
 # Text Analysis Fundamentals with the Digital Scholar Lab
@@ -20,7 +21,7 @@ This tutorial introduces [Gale's Digital Scholar Lab](https://mdl.library.utoro
 * Download the scanned texts in your collection, so that you can use them in other programs
 * Find additional training and resources
 
-*Note: Gale periodically updates the Digital Scholar Lab, so some features of this tutorial might not always match the latest interface. This tutorial was last updated in March 2023\.*
+*Note: Gale periodically updates the Digital Scholar Lab, so some features of this tutorial might not always match the latest interface. This tutorial was last updated in March 2023.*
 
 Table of Contents
 =================
@@ -57,24 +58,24 @@ The DSL has six analysis tools:
 5. Sentiment Analysis
 6. Topic Modeling
 
-The DSL makes it easier to learn and understand how these tools work by providing user\-friendly graphical user interfaces, documentation, and demonstration videos. External links to the code or programs behind each tool are also made available should you wish to run the tool on your own computer and use its more advanced features.
+The DSL makes it easier to learn and understand how these tools work by providing user-friendly graphical user interfaces, documentation, and demonstration videos. External links to the code or programs behind each tool are also made available should you wish to run the tool on your own computer and use its more advanced features.
 
 What collections does it have?
 ------------------------------
 
-When you use the DSL through your University of Toronto connection, you can use any of the Gale primary source collections that the University has licensed, including hundreds of thousands of documents in multiple languages with broad historical and geographical coverage. (Once you are logged in, see [these instructions to view all accessible collections](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-additional-training#available_texts).) Extensive coverage, however, should not be confused with universal coverage; many perspectives are not represented in these text collections. For example, most of the colonial\-era documents included in these collections were produced and collected by colonizing people, organizations, or institutions, rather than by colonized peoples. It is up to you as a critical scholar to decide on which questions can and cannot be answered by these collections. Note that some are downloadable open source tools whereas others will require knowledge of Python.
+When you use the DSL through your University of Toronto connection, you can use any of the Gale primary source collections that the University has licensed, including hundreds of thousands of documents in multiple languages with broad historical and geographical coverage. (Once you are logged in, see [these instructions to view all accessible collections](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-additional-training#available_texts).) Extensive coverage, however, should not be confused with universal coverage; many perspectives are not represented in these text collections. For example, most of the colonial-era documents included in these collections were produced and collected by colonizing people, organizations, or institutions, rather than by colonized peoples. It is up to you as a critical scholar to decide on which questions can and cannot be answered by these collections. Note that some are downloadable open source tools whereas others will require knowledge of Python.
 
 Digitization
 ------------
 
-The texts available in the DSL have gone through several steps: (1\) various institutions like libraries and archives collected the texts; (2\) Gale scanned the text; (3\) through a process called [Optical Character Recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition) these scans—which are essentially photographs of texts—are converted into readable, searchable text.
+The texts available in the DSL have gone through several steps: (1) various institutions like libraries and archives collected the texts; (2) Gale scanned the text; (3) through a process called [Optical Character Recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition) these scans—which are essentially photographs of texts—are converted into readable, searchable text.
 
-OCR uses image\-recognition algorithms to identify characters and create a text file based on the image. OCR is powerful, but it is also prone to errors such as misidentifying characters (e.g. reading a zero as the letter 'O') or adding or removing spaces. There are [additional challenges for scanning older English texts](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/), such as those that use the long 's' ('ſ*'*), which resembles a lowercase 'f'. We discuss this process further in the section on Cleaning, but for now it is sufficient to know that this process can often leave errors in the text files produced through OCR.
+OCR uses image-recognition algorithms to identify characters and create a text file based on the image. OCR is powerful, but it is also prone to errors such as misidentifying characters (e.g. reading a zero as the letter 'O') or adding or removing spaces. There are [additional challenges for scanning older English texts](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/), such as those that use the long 's' ('ſ*'*), which resembles a lowercase 'f'. We discuss this process further in the section on Cleaning, but for now it is sufficient to know that this process can often leave errors in the text files produced through OCR.
 
 Where do I find more information and videos on it?
 --------------------------------------------------
 
-In addition to the in\-depth tutorials above, we have a variety of pages and videos related to the DSL:
+In addition to the in-depth tutorials above, we have a variety of pages and videos related to the DSL:
 
 * [Getting started with the Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/tutorials/gale-digital-scholar-lab-information-tutorials-and-workshops)
 * [General overview and Frequently Asked Questions](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab) (FAQ)
@@ -92,14 +93,12 @@ Note: if you are experiencing an HTTP 400 error when attempting to log in, pleas
 Further Reading
 ---------------
 
-* D’Ignazio, Catherine, and Lauren F. Klein. [Data Feminism](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106734515806196). MIT Press, 2020\.
-* Gitelman, Lisa. [“Raw Data” Is an Oxymoron](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106190587006196). Infrastructures Series. Cambridge, Mass: The MIT Press, 2013\.
-* Loukissas, Yanni A. [All Data Are Local: Thinking Critically in a Data\-Driven Society](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/fedca1/cdi_askewsholts_vlebooks_9780262352222). Cambridge, Massachusetts: The MIT Press, 2019\.
-* Onuoha, Mimi, Sparshith Sampath, Myles Braithwaite, and Corin Faife. On Missing Data Sets, 2018\. [https://github.com/MimiOnuoha/missing\-datasets](https://github.com/MimiOnuoha/missing-datasets).
-* Posner, Miriam. “Humanities Data: A Necessary Contradiction.” Miriam Posner’s Blog, June 25, 2015\. [https://miriamposner.com/blog/humanities\-data\-a\-necessary\-contradiction/](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/).
+* D’Ignazio, Catherine, and Lauren F. Klein. [Data Feminism](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106734515806196). MIT Press, 2020.
+* Gitelman, Lisa. [“Raw Data” Is an Oxymoron](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106190587006196). Infrastructures Series. Cambridge, Mass: The MIT Press, 2013.
+* Loukissas, Yanni A. [All Data Are Local: Thinking Critically in a Data-Driven Society](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/fedca1/cdi_askewsholts_vlebooks_9780262352222). Cambridge, Massachusetts: The MIT Press, 2019.
+* Onuoha, Mimi, Sparshith Sampath, Myles Braithwaite, and Corin Faife. On Missing Data Sets, 2018. [https://github.com/MimiOnuoha/missing-datasets](https://github.com/MimiOnuoha/missing-datasets).
+* Posner, Miriam. “Humanities Data: A Necessary Contradiction.” Miriam Posner’s Blog, June 25, 2015. [https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/).
 
-See also our [bibliography of works that critically analyze data studies](https://mdl.library.utoronto.ca/support/guides/critical-data-and-maps-equity-diversity-and-inclusion-edi), mapping and GIS from antiracist, feminist, queer, LGBTQIA2S\+ and Indigenous perspectives.
+See also our [bibliography of works that critically analyze data studies](https://mdl.library.utoronto.ca/support/guides/critical-data-and-maps-equity-diversity-and-inclusion-edi), mapping and GIS from antiracist, feminist, queer, LGBTQIA2S+ and Indigenous perspectives.
 
-**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
-
-**Date Created:** 2020\-04\-21 **Updated:** 2025\-12\-18
+**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
