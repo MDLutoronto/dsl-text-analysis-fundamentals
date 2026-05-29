@@ -40,7 +40,7 @@ Our tutorial for the Digital Scholar Lab (DSL) includes the introductory page yo
 4. **Cleaning** discusses how to prepare your texts for best results.  
 5. **Analysis** covers the DSL's six tools in detail.  
 6. **Export** shows you how to export data, graphs, and full texts.  
-7. **Additional training** includes resources from Gale, including sample projects and recorded webinars.
+7. **Additional training** includes resources from Gale, including sample projects.
 
 What is Gale Digital Scholar Lab?
 ---------------------------------

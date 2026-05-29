@@ -26,6 +26,5 @@ Here are some ways to dig deeper into the archival and instructional materials i
 * [DSL Learning Center](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/7.2-dsl-learning-center/)
 * [Sample Projects](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/7.3-sample-projects/)
 * [Use Python via Jupyter Notebooks](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/7.4-python-via-jupyter/)
-* [Recorded webinars and tutorials from Gale](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/7.5-recorded-webinars/)
 
 **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
