@@ -4,14 +4,20 @@ layout: "home"
 description: "This tutorial introduces Gale's Digital Scholar Lab (DSL), a digital humanities tool."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Nick Field
-   link: https://library.utoronto.ca/staff/nick-field
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 created_date: 2020-04-21
+has_children: true
+has_toc: false
+nav_order: 0
 ---
 
 # Text Analysis Fundamentals with the Digital Scholar Lab
 
-This tutorial introduces [Gale's Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab) (DSL), a digital humanities tool. In this tutorial, you will learn how to:
+This tutorial introduces [Gale's Digital Scholar Lab](https://gale.com/digital-humanities-tools/gale-digital-scholar-lab) (DSL), a digital humanities tool. In this tutorial, you will learn how to:
 
 * Build a collection of texts, including uploading your own materials
 * Create collaborative workspaces
@@ -26,23 +32,15 @@ This tutorial introduces [Gale's Digital Scholar Lab](https://mdl.library.utoro
 Table of Contents
 =================
 
-Our tutorial for the Digital Scholar Lab (DSL) includes the introductory page you are reading, plus seven major sections. Click on any of the links below to jump to the relevant tutorial. We suggest following them in order:
+Our tutorial for the Digital Scholar Lab (DSL) includes the introductory page you are reading, plus seven major sections. Click on any of the links on the menu to the left to jump to the relevant tutorial. We suggest following them in order:
 
-1. [Access](https://mdl.library.utoronto.ca/technology/tutorials/logging-digital-scholar-lab-through-catalog)
-2. [Collaboration and Notes](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-collaboration-and-notes)
-3. [Collections](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-collections)
-4. [Cleaning](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-cleaning)
-5. [Analysis](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-analysis)
-6. [Export](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-export)
-7. [Additional training](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-additional-training)
-
-**Access** covers how to find and log into the DSL.  
-**Collaboration and Notes,** an optional guide, shows you how to create team workspaces.  
-**Collections** includes uploading your own texts and using advanced search options to locate primary sources from Gale.  
-**Cleaning** discusses how to prepare your texts for best results.  
-**Analysis** covers the DSL's six tools in detail.  
-**Export** shows you how to export data, graphs, and full texts.  
-**Additional training** includes resources from Gale, including sample projects and recorded webinars.
+1. **Access** covers how to find and log into the DSL.  
+2. **Collaboration and Notes,** an optional guide, shows you how to create team workspaces.  
+3. **Collections** includes uploading your own texts and using advanced search options to locate primary sources from Gale.  
+4. **Cleaning** discusses how to prepare your texts for best results.  
+5. **Analysis** covers the DSL's six tools in detail.  
+6. **Export** shows you how to export data, graphs, and full texts.  
+7. **Additional training** includes resources from Gale, including sample projects and recorded webinars.
 
 What is Gale Digital Scholar Lab?
 ---------------------------------
@@ -101,4 +99,54 @@ Further Reading
 
 See also our [bibliography of works that critically analyze data studies](https://mdl.library.utoronto.ca/support/guides/critical-data-and-maps-equity-diversity-and-inclusion-edi), mapping and GIS from antiracist, feminist, queer, LGBTQIA2S+ and Indigenous perspectives.
 
-**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
+Frequently Asked Questions
+---------------
+### Citations
+Gale asks that you cite the various tool settings that you use and the document collections that you create. Many thanks to Dr. Sarah Ketchley, Senior Digital Humanities Specialist at Gale for the explanation and examples below.
+
+#### Citing Tool Settings
+Please include:
+
+* Name of Tool
+* Platform (i.e. Gale Digital Scholar Lab)
+* Year or version
+* Date of Access
+* URL
+
+Examples:
+
+Chicago Manual of Style Note Format:
+“Named Entity Recognition”, Gale Digital Scholar Lab, accessed February 15, 2022, [https://go.gale.com/ps/textAnalysisTools?p=DSLAB&jobId=48290&method=analysisResults&u=omni&authType=Microsoft&type=NER&contentSet=1589225177088&triggerTool=treeView&result=treeView&toolVersion=2](https://go.gale.com/ps/textAnalysisTools?p=DSLAB&jobId=48290&method=analysisResults&u=omni&authType=Microsoft&type=NER&contentSet=1589225177088&triggerTool=treeView&result=treeView&toolVersion=2)
+
+MLA Format:
+“Named Entity Recognition.” Gale Digital Scholar Lab. 2022. Web. February 15, 2022. [https://go.gale.com/ps/textAnalysisTools?p=DSLAB&jobId=48290&method=analysisResults&u=omni&authType=Microsoft&type=NER&contentSet=1589225177088&triggerTool=treeView&result=treeView&toolVersion=2](https://go.gale.com/ps/textAnalysisTools?p=DSLAB&jobId=48290&method=analysisResults&u=omni&authType=Microsoft&type=NER&contentSet=1589225177088&triggerTool=treeView&result=treeView&toolVersion=2)
+
+#### Citing Your Document Collections
+Please follow protocols for citing datasets generally, including:
+
+* Author
+* Title of Content Set (created by the researcher, and can be edited)
+* Source of Content Set (put "Gale Digital Scholar Lab [Distributor].")>
+* Date of Creation of Content Set
+* Content Set URL (open the content set in a tab and paste the URL)
+
+Examples:
+
+Chicago Manual of Style Bibliographic Format:
+Ketchley, Sarah L. 1840-1849 American Fiction Female Authors. Gale Digital Scholar Lab [distributor]. February 2022. [https://go.gale.com/ps/myContentSets?method=viewCSDocs&u=omni&p=DSLAB&contentSet=1539283042148](https://go.gale.com/ps/myContentSets?method=viewCSDocs&u=omni&p=DSLAB&contentSet=1539283042148)
+
+MLA Format:
+Sarah L. Ketchley. 1840-1849 American Fiction Female Authors. Gale Digital Scholar Lab [distributor]. February 2022. [https://go.gale.com/ps/myContentSets?method=viewCSDocs&u=omni&p=DSLAB&contentSet=1539283042148](https://go.gale.com/ps/myContentSets?method=viewCSDocs&u=omni&p=DSLAB&contentSet=1539283042148)
+
+### Uploading Texts
+The DSL allows you to upload your own texts as individual .txt files (under 10 MB each). The following explanations regarding security measures, privacy, and licensing restrictions come from the [DSL's FAQ.](https://go.gale.com/ps/helpCenter?userGroupName=utoronto_main&inPS=true&nspage=true&prodId=DSLAB&docId=UCHJJN776013164) (login required)
+
+What measures are in place to secure my uploaded documents?
+
+All documents pass through a Sentinel One security scanner and file sniffer to ensure what is uploaded is a plain text file. There is also cross-scripting on the text entry and metadata forms to prevent any malicious attacks on the environment. All documents are stored in an encrypted cloud-based storage solution with high availability.
+
+Are there any rights restrictions around uploaded content?
+
+Gale provides a text upload feature that allows users to analyze non-Gale content within Gale Digital Scholar Lab. The upload of personally identifiable information is not recommended. Additionally, users assume sole responsibility for clearing rights to any content loaded into this feature. In the event texts are loaded into the platform without proper rights clearance, the user indemnifies Gale from resulting litigation related to the use of that content outside the bounds of its legally stated use."
+
+**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
