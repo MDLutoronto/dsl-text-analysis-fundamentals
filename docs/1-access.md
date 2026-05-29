@@ -14,7 +14,7 @@ parent: Text Analysis Fundamentals with the Digital Scholar Lab
 
 # Logging into Digital Scholar Lab through the Catalog
 
-This short guide provides instructions on how to log into the [Gale Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab) via the University of Toronto institutional access.
+This short guide provides instructions on how to log into the [Gale Digital Scholar Lab](https://gale.com/digital-humanities-tools/gale-digital-scholar-lab) via the University of Toronto institutional access.
 
 1. To access the DSL, **go to <https://uoft.me/gale>.** You can also access the DSL through our U of T institutional connection by going to the [library catalogue](https://mdl.library.utoronto.ca/). The default is to search Map and Data's website. Click on the Library Search tab. Type “Digital Scholar Lab” in the search box, and click the search button.  
 <img src='{{ '/assets/images/DSL_Access_001.1.png' | relative_url }}' alt='Library search highlighted on the MDL webpage.' title='' width='800' height='' />
@@ -64,13 +64,12 @@ This short guide provides instructions on how to log into the [Gale Digital Scho
     
     <img src='{{ '/assets/images/DSL_Access_007.png' | relative_url }}' alt='Workspace selection popup.' title='' width='800' height='' />
 
-    Unless otherwise stated, the rest of these tutorials assumes you're working in a Personal workspace, but if you plan to collaborate with others, or just want to learn about the Digital Scholar Lab's notetaking features, you can learn about [collaboration and notes](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-collaboration-and-notes).
+    Unless otherwise stated, the rest of these tutorials assumes you're working in a Personal workspace, but if you plan to collaborate with others, or just want to learn about the Digital Scholar Lab's notetaking features, you can learn about [collaboration and notes](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/2-collaboration-and-notes/).
 
-    Otherwise, please select **Personal** and proceed to [start building a collection](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-collections)
+    Otherwise, please select **Personal** and proceed to [start building a collection](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3-collections/)
 6. You're in! When you return to the Digital Scholar Lab homepage, you should notice your name in the top-right corner, under Signed in.  
 
 <img src='{{ '/assets/images/DSL_Access_006.jpg' | relative_url }}' alt='Gale Digital Scholar Lab main page with the signed in account indicated and highlighted in the top right. ' title='' width='800' height='' />
 
-[Return to the main DSL tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
 
-Tools: [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
+**Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)

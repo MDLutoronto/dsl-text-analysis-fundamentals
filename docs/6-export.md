@@ -73,8 +73,7 @@ When the folder has been unzipped, open it.**
 
 You can download the metadata for up to 10 000 documents in your collection. You will receive the data as a .CSV file (which can be opened as a spreadsheet, e.g. in Excel).​​​​​​​<img src='{{ '/assets/images/DSL_Export_010.3.png' | relative_url }}' alt='Metadata in Excel.' title='' width='800' height='' />
 
-That's it! You can now export data, visualizations, and both raw and cleaned text files from the*Digital Scholar Lab.*
+That's it! You can now export data, visualizations, and both raw and cleaned text files from the *Digital Scholar Lab.*
 
-[Return to the main Gale Digital Scholar Lab tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
 
-Technique: [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | Tools: [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
+**Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)

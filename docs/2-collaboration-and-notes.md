@@ -55,14 +55,14 @@ These groups are flexible and are meant to meet many use cases, for example:
 {: #create-a-workspace}
 
 
-1. [Log into the Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/tutorials/logging-digital-scholar-lab-through-catalog)
+1. [Log into the Digital Scholar Lab](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/1-access/)
 2. On the popup titled "Please Select Your Workspace," click "Create New Workspace."  
 <img src='{{ '/assets/images/DSL_Collaboration_Workspace_002.1.png' | relative_url }}' alt='Select workspace popup with only Personal workspace.' title='' width='800' height='' />
 
     If you are already logged in, you can click on the button on top-right corner to create a new workspace.  
         <img src='{{ '/assets/images/DSL_Collaboration_Workspace_002.2.png' | relative_url }}' alt='Digital Scholar Lab home page with the house icon in the top right highlighted. ' title='' width='800' height='' />
 
-    *Note: the first time you log in, you may be asked to pick a display name and avatar for yourself. This icon will appear beside your name in comments and workspaces. See the tutorial section on [Access](https://mdl.library.utoronto.ca/technology/tutorials/logging-digital-scholar-lab-through-catalog) for help setting up your account.*
+    *Note: the first time you log in, you may be asked to pick a display name and avatar for yourself. This icon will appear beside your name in comments and workspaces. See the tutorial section on [Access](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/1-access/) for help setting up your account.*
 3. Fill out basic information for your group: add a Group Name, the email of at least one Collaborator, and then click Create.  
 <img src='{{ '/assets/images/DSL_Collaboration_Workspace_003.1.png' | relative_url }}' alt='Create Group popup with the group name and collaborators fields highlighted.' title='' width='600' height='' />
 
@@ -89,7 +89,7 @@ You can add notes from most places in the Digital Scholar Lab, and your Notes pa
 2. For the purposes of this example, let's say you're working on a project about the history of coffee. Under Search, type Coffee and press enter.  
 <img src='{{ '/assets/images/DSL_Collaboration_Notes_002.png' | relative_url }}' alt='Running a basic search for coffee.' title='' width='800' height='' />
 
-    *Note: you can consult much more complex search strategies, including uploading texts, in our [instructions on building text collections](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-collections).*
+    *Note: you can consult much more complex search strategies, including uploading texts, in our [instructions on building text collections](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3-collections/).*
 3. Click on the Add Note button.  
 <img src='{{ '/assets/images/DSL_Collaboration_Notes_003.png' | relative_url }}' alt='Add Note icon on secondary toolbar.' title='' width='800' height='' />
 
@@ -119,8 +119,8 @@ You can add notes from most places in the Digital Scholar Lab, and your Notes pa
 11. Here you can view all notes (whether you or another group member created them), filter them by date, location (i.e. where in the Digital Scholar Lab they were created), by author, and by additional filters, including free text for search terms.  
 <img src='{{ '/assets/images/DSL_Collaboration_Notes_011.png' | relative_url }}' alt='Notebook view with notes listing different locations.' title='' width='800' height='' />
 
-    *Note: once you have [run an analysis tool](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-analysis), you can create notes that save visualizations of specific runs. This is great for comparing different results and for documenting your findings.*
-12. Borrowing [an example from later in this tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-analysis#topic_modeling), once you have run a tool, click on Add Note on the results page.  
+    *Note: once you have [run an analysis tool](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/5-analysis/), you can create notes that save visualizations of specific runs. This is great for comparing different results and for documenting your findings.*
+12. Borrowing [an example from later in this tutorial](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/5.7-topic-modeling/), once you have run a tool, click on Add Note on the results page.  
 <img src='{{ '/assets/images/DSL_Collaboration_Notes_012.png' | relative_url }}' alt='Topic modeling output with the Add Note button.' title='' width='800' height='' />
 
 13. Add a title and text as before, then click on the Capture Analysis Image button to add a screenshot of your analysis results.  
@@ -162,8 +162,5 @@ You can add notes from most places in the Digital Scholar Lab, and your Notes pa
 
 For more information, see this [official video on the uses and purposes of groups](https://support.gale.com/doc/acad_DSLgroups_webinar).
 
-Proceed to [building a collection](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-collections)
-
-[Return to the main Gale Digital Scholar Lab tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
 
 **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
