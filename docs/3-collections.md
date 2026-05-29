@@ -24,11 +24,11 @@ Please note that Gale is periodically adding new documents to their collections,
 ## Table of Contents
 {: #table-of-contents}
 
-* [Build a collection](#build-a-collection)
-* [Upload your own texts](#upload-your-own-texts)
-	+ [Create a text document](#create-a-text-document)
-	+ [Bulk upload, method 1: text files](#bulk-upload-method-1-text-files)
-	+ [Bulk upload, method 2: spreadsheet (CSV)](#bulk-upload-method-2-spreadsheet-csv)
+* [Build a collection](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3.1-build-a-collection/)
+* [Upload your own texts](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3.2-upload-your-own-texts/)
+	+ [Create a text document](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3.2-upload-your-own-texts/#create-a-text-document)
+	+ [Bulk upload, method 1: text files](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3.2-upload-your-own-texts/#bulk-upload-method-1-text-files)
+	+ [Bulk upload, method 2: spreadsheet (CSV)](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3.2-upload-your-own-texts/#bulk-upload-method-2-spreadsheet-csv)
 
 
 **Technique:** [Text and Data Mining](https://mdl.library.utoronto.ca/technique/text-and-data-mining), [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) \| **Tools:** [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)

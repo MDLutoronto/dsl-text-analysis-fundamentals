@@ -133,7 +133,5 @@ Please note that Gale is periodically adding new documents to their collections,
 
 That's it! You've now cleaned your texts using a variety of tools.
 
-[Continue on to Analysis](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-analysis)  
-[Return to the main Gale Digital Scholar Lab tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
 
-Technique: [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) | Tools: [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)

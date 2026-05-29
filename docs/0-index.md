@@ -61,7 +61,7 @@ The DSL makes it easier to learn and understand how these tools work by providin
 What collections does it have?
 ------------------------------
 
-When you use the DSL through your University of Toronto connection, you can use any of the Gale primary source collections that the University has licensed, including hundreds of thousands of documents in multiple languages with broad historical and geographical coverage. (Once you are logged in, see [these instructions to view all accessible collections](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-additional-training#available_texts).) Extensive coverage, however, should not be confused with universal coverage; many perspectives are not represented in these text collections. For example, most of the colonial-era documents included in these collections were produced and collected by colonizing people, organizations, or institutions, rather than by colonized peoples. It is up to you as a critical scholar to decide on which questions can and cannot be answered by these collections. Note that some are downloadable open source tools whereas others will require knowledge of Python.
+When you use the DSL through your University of Toronto connection, you can use any of the Gale primary source collections that the University has licensed, including hundreds of thousands of documents in multiple languages with broad historical and geographical coverage. (Once you are logged in, see [these instructions to view all accessible collections](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/7.1-see-which-texts-available/).) Extensive coverage, however, should not be confused with universal coverage; many perspectives are not represented in these text collections. For example, most of the colonial-era documents included in these collections were produced and collected by colonizing people, organizations, or institutions, rather than by colonized peoples. It is up to you as a critical scholar to decide on which questions can and cannot be answered by these collections. Note that some are downloadable open source tools whereas others will require knowledge of Python.
 
 Digitization
 ------------
@@ -70,23 +70,12 @@ The texts available in the DSL have gone through several steps: (1) various ins
 
 OCR uses image-recognition algorithms to identify characters and create a text file based on the image. OCR is powerful, but it is also prone to errors such as misidentifying characters (e.g. reading a zero as the letter 'O') or adding or removing spaces. There are [additional challenges for scanning older English texts](https://tedunderwood.com/2013/12/10/a-half-decent-ocr-normalizer-for-english-texts-after-1700/), such as those that use the long 's' ('ſ*'*), which resembles a lowercase 'f'. We discuss this process further in the section on Cleaning, but for now it is sufficient to know that this process can often leave errors in the text files produced through OCR.
 
-Where do I find more information and videos on it?
+Additional Help
 --------------------------------------------------
+For assistance, or to take the DSL's tools further in your own research, please [contact the Map & Data Library](https://mdl.library.utoronto.ca/about/contact-form).
+* [Recorded webinars from Gale](https://support.gale.com/training/products/dslab)
+* [Upcoming webinars from Gale](https://support.gale.com/training/webinars/)
 
-In addition to the in-depth tutorials above, we have a variety of pages and videos related to the DSL:
-
-* [Getting started with the Digital Scholar Lab](https://mdl.library.utoronto.ca/technology/tutorials/gale-digital-scholar-lab-information-tutorials-and-workshops)
-* [General overview and Frequently Asked Questions](https://mdl.library.utoronto.ca/technology/text-data-mining-software/gale-digital-scholar-lab) (FAQ)
-* [Short demo video](https://play.library.utoronto.ca/watch/dcee158db446cb9a2dc4168eccf30f77?t=350)
-* [Additional training from Gale](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-additional-training#Gale_official) (recorded and live webinars)
-* [Text Analysis Tools Comparison Cheat Sheet](https://docs.google.com/spreadsheets/d/1ejQ2mBVaa7ETi5zOoQi6wgFJhrJmtHmwb36RA-LBUi0/edit?usp=sharing) (compares the Digital Scholar Lab, Constellate, TDM Studio, and the HathiTrust Research Center)
-
-Who do I contact for more help?
--------------------------------
-
-If you would like help or want to take any of the DSL's tools further in your own analysis, you can always [contact Digital Scholarship Services](https://onesearch.library.utoronto.ca/digital-scholarship/contact-digital-scholarship-services).
-
-Note: if you are experiencing an HTTP 400 error when attempting to log in, please close your browser, reopen, and retry. You may have timed out, which can cause errors on some browsers.
 
 Further Reading
 ---------------
