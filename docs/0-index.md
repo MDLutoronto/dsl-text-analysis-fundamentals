@@ -72,7 +72,7 @@ OCR uses image-recognition algorithms to identify characters and create a text 
 
 Additional Help
 --------------------------------------------------
-For assistance, or to take the DSL's tools further in your own research, please [contact the Map & Data Library](https://mdl.library.utoronto.ca/about/contact-form).
+For assistance, or to take the DSL's tools further in your own research, please [contact the Map & Data Library](https://library.utoronto.ca/contact-us/data-maps).
 * [Recorded webinars from Gale](https://support.gale.com/training/products/dslab)
 * [Upcoming webinars from Gale](https://support.gale.com/training/webinars/)
 
