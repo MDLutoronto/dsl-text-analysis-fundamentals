@@ -16,7 +16,7 @@ parent: Text Analysis Fundamentals with the Digital Scholar Lab
 
 This short guide provides instructions on how to log into the [Gale Digital Scholar Lab](https://gale.com/digital-humanities-tools/gale-digital-scholar-lab) via the University of Toronto institutional access.
 
-1. To access the DSL, **go to <https://uoft.me/gale>.** You can also access the DSL through our U of T institutional connection by going to the [library catalogue](https://mdl.library.utoronto.ca/). The default is to search Map and Data's website. Click on the Library Search tab. Type “Digital Scholar Lab” in the search box, and click the search button.  
+1. To access the DSL, **go to <https://uoft.me/gale>.** You can also access the DSL through our U of T institutional connection by going to the [library catalogue](https://library.utoronto.ca/library/mdl#data-collections). The default is to search Map and Data's website. Click on the Library Search tab. Type “Digital Scholar Lab” in the search box, and click the search button.  
 <img src='{{ '/assets/images/DSL_Access_001.1.png' | relative_url }}' alt='Library search highlighted on the MDL webpage.' title='' width='800' height='' />
 
     DSL should be the first result, under Other. Click it.  
