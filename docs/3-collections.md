@@ -31,4 +31,4 @@ Please note that Gale is periodically adding new documents to their collections,
 	+ [Bulk upload, method 2: spreadsheet (CSV)](https://mdlutoronto.github.io/dsl-text-analysis-fundamentals/3.2-upload-your-own-texts/#bulk-upload-method-2-spreadsheet-csv)
 
 
-**Technique:** [Text and Data Mining](https://mdl.library.utoronto.ca/technique/text-and-data-mining), [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) \| **Tools:** [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)
+**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?query=Searching+for+maps+and+data&technique=Text+and+Data+Mining)| **Tools:** [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?query=Searching+for+maps+and+data&technique=Text+and+Data+Mining&tool=Digital+Scholar+Lab)
